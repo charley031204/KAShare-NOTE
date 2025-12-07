@@ -39,7 +39,7 @@ MathJax = {
 > 3.  **Selection Processes (졸업 시험: 98% 탈락)**
 >     * **Positive Selection (Cortex):** **cTEC**이 제시하는 MHC를 **'적당히(Low affinity)'** 인식하면 생존. -> **MHC Restriction** 획득. (실패 시 Death by Neglect).
 >     * **Negative Selection (Medulla):** **mTEC/DC**가 제시하는 자기 항원(Self-Ag)을 **'너무 세게(High affinity)'** 인식하면 제거. -> **Self-Tolerance** 획득.
->     * **Paradox 해결:** **Thymoproteasome($\beta$5t)**이 피질에서 독특한 펩타이드를 만들어 양성 선택을 도움.
+>     * **Paradox 해결:** **Thymoproteasome($beta$ 5t)**이 피질에서 독특한 펩타이드를 만들어 양성 선택을 도움.
 >
 > 4.  **Lineage Commitment & Exit (진로 선택 및 졸업)**
 >     * **CD4 vs CD8:** **Kinetic Signaling Model**에 따라 신호가 지속되면(Continuous) **CD4**, 끊기면(Interrupted) **CD8**이 됨. (전사인자 **ThPOK** vs **Runx3**의 길항 작용).
@@ -313,7 +313,7 @@ MathJax = {
 > > * **High affinity Peptide 추가:** 꽉 붙는 펩타이드를 넣어줬더니 -> **사망 (Negative Selection)**.
 > > * **결론:** 결국 **"펩타이드와의 결합 세기(Affinity)"**가 생사를 가릅니다.
 >
-> > [!IMPORTANT] PAGE 52-53: Thymoproteasome ($\beta$5t) - 비밀병기
+> > [!IMPORTANT] PAGE 52-53: Thymoproteasome ($\beta$ 5t) - 비밀병기
 > > 53페이지 그림이 그 해답의 결정타입니다. 피질 상피세포(cTEC)는 단백질을 자르는 가위가 다릅니다.
 > > * **일반 세포:** 일반 프로테아좀을 씁니다.
 > > * **cTEC (피질 세포):** **$\beta$5t**라는 특수 소단위체를 가진 **Thymoproteasome**을 씁니다.
@@ -322,6 +322,11 @@ MathJax = {
 > >     1.  **Cortex:** cTEC이 만든 '약한 펩타이드'로 **양성 선택** (살살 달래서 살림).
 > >     2.  **Medulla:** mTEC이나 DC가 만든 '진짜(강한) 펩타이드'로 **음성 선택** (세게 반응하는 놈 제거).
 > >     * 이렇게 장소별로 **'메뉴(Peptide)'**를 다르게 해서 패러독스를 해결합니다.
+> 
+> >[!quote] 의문: PS에서 결합력이 약한 펩티드와 결합할 정도의 애면 NS에선 무조건 걸러지는거 아닌가?
+> > - PS의 통과자는 **자기 MHC**를 인식할 수만 있으면 됨. 예컨대 자기 MHC+적당한 Peptide를 넣어버려서 **"약한 결합력"을 가지는 대신 MHC를 인식**할 수 있으면 통과.
+> > - NS에서는 **결합력이 강한 Self peptide**를 제시해버려서, 조금이라도 자기 peptide와 결합할 수 있는 녀석은 모두 제거시키는거임.
+> > - **결론: Peptide의 결합력 뿐만 아니라, 종류도 다르다**
 
 
 > [!NOTE] Pages 54-60: 계통 결정 (Lineage Commitment) - CD4냐 CD8이냐
@@ -393,7 +398,7 @@ MathJax = {
 > 3.  **Selection Processes (졸업 시험: 98% 탈락)**
 >     * **Positive Selection (Cortex):** **cTEC**이 제시하는 MHC를 **'적당히(Low affinity)'** 인식하면 생존. -> **MHC Restriction** 획득. (실패 시 Death by Neglect).
 >     * **Negative Selection (Medulla):** **mTEC/DC**가 제시하는 자기 항원(Self-Ag)을 **'너무 세게(High affinity)'** 인식하면 제거. -> **Self-Tolerance** 획득.
->     * **Paradox 해결:** **Thymoproteasome($\beta$5t)**이 피질에서 독특한 펩타이드를 만들어 양성 선택을 도움.
+>     * **Paradox 해결:** **Thymoproteasome($beta$ 5t)**이 피질에서 독특한 펩타이드를 만들어 양성 선택을 도움.
 >
 > 4.  **Lineage Commitment & Exit (진로 선택 및 졸업)**
 >     * **CD4 vs CD8:** **Kinetic Signaling Model**에 따라 신호가 지속되면(Continuous) **CD4**, 끊기면(Interrupted) **CD8**이 됨. (전사인자 **ThPOK** vs **Runx3**의 길항 작용).
@@ -667,7 +672,7 @@ MathJax = {
 > > * **High affinity Peptide 추가:** 꽉 붙는 펩타이드를 넣어줬더니 -> **사망 (Negative Selection)**.
 > > * **결론:** 결국 **"펩타이드와의 결합 세기(Affinity)"**가 생사를 가릅니다.
 >
-> > [!IMPORTANT] PAGE 52-53: Thymoproteasome ($\beta$5t) - 비밀병기
+> > [!IMPORTANT] PAGE 52-53: Thymoproteasome ($\beta$ 5t) - 비밀병기
 > > 53페이지 그림이 그 해답의 결정타입니다. 피질 상피세포(cTEC)는 단백질을 자르는 가위가 다릅니다.
 > > * **일반 세포:** 일반 프로테아좀을 씁니다.
 > > * **cTEC (피질 세포):** **$\beta$5t**라는 특수 소단위체를 가진 **Thymoproteasome**을 씁니다.
@@ -676,6 +681,11 @@ MathJax = {
 > >     1.  **Cortex:** cTEC이 만든 '약한 펩타이드'로 **양성 선택** (살살 달래서 살림).
 > >     2.  **Medulla:** mTEC이나 DC가 만든 '진짜(강한) 펩타이드'로 **음성 선택** (세게 반응하는 놈 제거).
 > >     * 이렇게 장소별로 **'메뉴(Peptide)'**를 다르게 해서 패러독스를 해결합니다.
+> 
+> >[!quote] 의문: PS에서 결합력이 약한 펩티드와 결합할 정도의 애면 NS에선 무조건 걸러지는거 아닌가?
+> > - PS의 통과자는 **자기 MHC**를 인식할 수만 있으면 됨. 예컨대 자기 MHC+적당한 Peptide를 넣어버려서 **"약한 결합력"을 가지는 대신 MHC를 인식**할 수 있으면 통과.
+> > - NS에서는 **결합력이 강한 Self peptide**를 제시해버려서, 조금이라도 자기 peptide와 결합할 수 있는 녀석은 모두 제거시키는거임.
+> > - **결론: Peptide의 결합력 뿐만 아니라, 종류도 다르다**
 
 
 > [!NOTE] Pages 54-60: 계통 결정 (Lineage Commitment) - CD4냐 CD8이냐
@@ -747,7 +757,7 @@ MathJax = {
 > 3.  **Selection Processes (졸업 시험: 98% 탈락)**
 >     * **Positive Selection (Cortex):** **cTEC**이 제시하는 MHC를 **'적당히(Low affinity)'** 인식하면 생존. -> **MHC Restriction** 획득. (실패 시 Death by Neglect).
 >     * **Negative Selection (Medulla):** **mTEC/DC**가 제시하는 자기 항원(Self-Ag)을 **'너무 세게(High affinity)'** 인식하면 제거. -> **Self-Tolerance** 획득.
->     * **Paradox 해결:** **Thymoproteasome($\beta$5t)**이 피질에서 독특한 펩타이드를 만들어 양성 선택을 도움.
+>     * **Paradox 해결:** **Thymoproteasome($beta$ 5t)**이 피질에서 독특한 펩타이드를 만들어 양성 선택을 도움.
 >
 > 4.  **Lineage Commitment & Exit (진로 선택 및 졸업)**
 >     * **CD4 vs CD8:** **Kinetic Signaling Model**에 따라 신호가 지속되면(Continuous) **CD4**, 끊기면(Interrupted) **CD8**이 됨. (전사인자 **ThPOK** vs **Runx3**의 길항 작용).
@@ -1021,7 +1031,7 @@ MathJax = {
 > > * **High affinity Peptide 추가:** 꽉 붙는 펩타이드를 넣어줬더니 -> **사망 (Negative Selection)**.
 > > * **결론:** 결국 **"펩타이드와의 결합 세기(Affinity)"**가 생사를 가릅니다.
 >
-> > [!IMPORTANT] PAGE 52-53: Thymoproteasome ($\beta$5t) - 비밀병기
+> > [!IMPORTANT] PAGE 52-53: Thymoproteasome ($\beta$ 5t) - 비밀병기
 > > 53페이지 그림이 그 해답의 결정타입니다. 피질 상피세포(cTEC)는 단백질을 자르는 가위가 다릅니다.
 > > * **일반 세포:** 일반 프로테아좀을 씁니다.
 > > * **cTEC (피질 세포):** **$\beta$5t**라는 특수 소단위체를 가진 **Thymoproteasome**을 씁니다.
@@ -1030,6 +1040,11 @@ MathJax = {
 > >     1.  **Cortex:** cTEC이 만든 '약한 펩타이드'로 **양성 선택** (살살 달래서 살림).
 > >     2.  **Medulla:** mTEC이나 DC가 만든 '진짜(강한) 펩타이드'로 **음성 선택** (세게 반응하는 놈 제거).
 > >     * 이렇게 장소별로 **'메뉴(Peptide)'**를 다르게 해서 패러독스를 해결합니다.
+> 
+> >[!quote] 의문: PS에서 결합력이 약한 펩티드와 결합할 정도의 애면 NS에선 무조건 걸러지는거 아닌가?
+> > - PS의 통과자는 **자기 MHC**를 인식할 수만 있으면 됨. 예컨대 자기 MHC+적당한 Peptide를 넣어버려서 **"약한 결합력"을 가지는 대신 MHC를 인식**할 수 있으면 통과.
+> > - NS에서는 **결합력이 강한 Self peptide**를 제시해버려서, 조금이라도 자기 peptide와 결합할 수 있는 녀석은 모두 제거시키는거임.
+> > - **결론: Peptide의 결합력 뿐만 아니라, 종류도 다르다**
 
 
 > [!NOTE] Pages 54-60: 계통 결정 (Lineage Commitment) - CD4냐 CD8이냐
@@ -1101,7 +1116,7 @@ MathJax = {
 > 3.  **Selection Processes (졸업 시험: 98% 탈락)**
 >     * **Positive Selection (Cortex):** **cTEC**이 제시하는 MHC를 **'적당히(Low affinity)'** 인식하면 생존. -> **MHC Restriction** 획득. (실패 시 Death by Neglect).
 >     * **Negative Selection (Medulla):** **mTEC/DC**가 제시하는 자기 항원(Self-Ag)을 **'너무 세게(High affinity)'** 인식하면 제거. -> **Self-Tolerance** 획득.
->     * **Paradox 해결:** **Thymoproteasome($\beta$5t)**이 피질에서 독특한 펩타이드를 만들어 양성 선택을 도움.
+>     * **Paradox 해결:** **Thymoproteasome($beta$ 5t)**이 피질에서 독특한 펩타이드를 만들어 양성 선택을 도움.
 >
 > 4.  **Lineage Commitment & Exit (진로 선택 및 졸업)**
 >     * **CD4 vs CD8:** **Kinetic Signaling Model**에 따라 신호가 지속되면(Continuous) **CD4**, 끊기면(Interrupted) **CD8**이 됨. (전사인자 **ThPOK** vs **Runx3**의 길항 작용).
@@ -1375,7 +1390,7 @@ MathJax = {
 > > * **High affinity Peptide 추가:** 꽉 붙는 펩타이드를 넣어줬더니 -> **사망 (Negative Selection)**.
 > > * **결론:** 결국 **"펩타이드와의 결합 세기(Affinity)"**가 생사를 가릅니다.
 >
-> > [!IMPORTANT] PAGE 52-53: Thymoproteasome ($\beta$5t) - 비밀병기
+> > [!IMPORTANT] PAGE 52-53: Thymoproteasome ($\beta$ 5t) - 비밀병기
 > > 53페이지 그림이 그 해답의 결정타입니다. 피질 상피세포(cTEC)는 단백질을 자르는 가위가 다릅니다.
 > > * **일반 세포:** 일반 프로테아좀을 씁니다.
 > > * **cTEC (피질 세포):** **$\beta$5t**라는 특수 소단위체를 가진 **Thymoproteasome**을 씁니다.
@@ -1384,6 +1399,11 @@ MathJax = {
 > >     1.  **Cortex:** cTEC이 만든 '약한 펩타이드'로 **양성 선택** (살살 달래서 살림).
 > >     2.  **Medulla:** mTEC이나 DC가 만든 '진짜(강한) 펩타이드'로 **음성 선택** (세게 반응하는 놈 제거).
 > >     * 이렇게 장소별로 **'메뉴(Peptide)'**를 다르게 해서 패러독스를 해결합니다.
+> 
+> >[!quote] 의문: PS에서 결합력이 약한 펩티드와 결합할 정도의 애면 NS에선 무조건 걸러지는거 아닌가?
+> > - PS의 통과자는 **자기 MHC**를 인식할 수만 있으면 됨. 예컨대 자기 MHC+적당한 Peptide를 넣어버려서 **"약한 결합력"을 가지는 대신 MHC를 인식**할 수 있으면 통과.
+> > - NS에서는 **결합력이 강한 Self peptide**를 제시해버려서, 조금이라도 자기 peptide와 결합할 수 있는 녀석은 모두 제거시키는거임.
+> > - **결론: Peptide의 결합력 뿐만 아니라, 종류도 다르다**
 
 
 > [!NOTE] Pages 54-60: 계통 결정 (Lineage Commitment) - CD4냐 CD8이냐
@@ -1455,7 +1475,7 @@ MathJax = {
 > 3.  **Selection Processes (졸업 시험: 98% 탈락)**
 >     * **Positive Selection (Cortex):** **cTEC**이 제시하는 MHC를 **'적당히(Low affinity)'** 인식하면 생존. -> **MHC Restriction** 획득. (실패 시 Death by Neglect).
 >     * **Negative Selection (Medulla):** **mTEC/DC**가 제시하는 자기 항원(Self-Ag)을 **'너무 세게(High affinity)'** 인식하면 제거. -> **Self-Tolerance** 획득.
->     * **Paradox 해결:** **Thymoproteasome($\beta$5t)**이 피질에서 독특한 펩타이드를 만들어 양성 선택을 도움.
+>     * **Paradox 해결:** **Thymoproteasome($beta$ 5t)**이 피질에서 독특한 펩타이드를 만들어 양성 선택을 도움.
 >
 > 4.  **Lineage Commitment & Exit (진로 선택 및 졸업)**
 >     * **CD4 vs CD8:** **Kinetic Signaling Model**에 따라 신호가 지속되면(Continuous) **CD4**, 끊기면(Interrupted) **CD8**이 됨. (전사인자 **ThPOK** vs **Runx3**의 길항 작용).
@@ -1729,7 +1749,7 @@ MathJax = {
 > > * **High affinity Peptide 추가:** 꽉 붙는 펩타이드를 넣어줬더니 -> **사망 (Negative Selection)**.
 > > * **결론:** 결국 **"펩타이드와의 결합 세기(Affinity)"**가 생사를 가릅니다.
 >
-> > [!IMPORTANT] PAGE 52-53: Thymoproteasome ($\beta$5t) - 비밀병기
+> > [!IMPORTANT] PAGE 52-53: Thymoproteasome ($\beta$ 5t) - 비밀병기
 > > 53페이지 그림이 그 해답의 결정타입니다. 피질 상피세포(cTEC)는 단백질을 자르는 가위가 다릅니다.
 > > * **일반 세포:** 일반 프로테아좀을 씁니다.
 > > * **cTEC (피질 세포):** **$\beta$5t**라는 특수 소단위체를 가진 **Thymoproteasome**을 씁니다.
@@ -1738,6 +1758,11 @@ MathJax = {
 > >     1.  **Cortex:** cTEC이 만든 '약한 펩타이드'로 **양성 선택** (살살 달래서 살림).
 > >     2.  **Medulla:** mTEC이나 DC가 만든 '진짜(강한) 펩타이드'로 **음성 선택** (세게 반응하는 놈 제거).
 > >     * 이렇게 장소별로 **'메뉴(Peptide)'**를 다르게 해서 패러독스를 해결합니다.
+> 
+> >[!quote] 의문: PS에서 결합력이 약한 펩티드와 결합할 정도의 애면 NS에선 무조건 걸러지는거 아닌가?
+> > - PS의 통과자는 **자기 MHC**를 인식할 수만 있으면 됨. 예컨대 자기 MHC+적당한 Peptide를 넣어버려서 **"약한 결합력"을 가지는 대신 MHC를 인식**할 수 있으면 통과.
+> > - NS에서는 **결합력이 강한 Self peptide**를 제시해버려서, 조금이라도 자기 peptide와 결합할 수 있는 녀석은 모두 제거시키는거임.
+> > - **결론: Peptide의 결합력 뿐만 아니라, 종류도 다르다**
 
 
 > [!NOTE] Pages 54-60: 계통 결정 (Lineage Commitment) - CD4냐 CD8이냐
