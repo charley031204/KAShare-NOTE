@@ -23,7 +23,7 @@ MathJax = {
 
 ---
 
-> [!abstract] 강의 요약: T세포의 발달 (T Cell Development)
+> [!abstract]- 강의 요약: T세포의 발달 (T Cell Development)
 >
 > 이번 강의는 **Thymus**에 입학한 전구세포가 엄격한 **Selection**을 거쳐 정예 T세포로 졸업하는 과정을 다룹니다. 크게 **초기 발달(DN) -> 선택(DP) -> 계통 결정(SP) -> 졸업**의 흐름입니다.
 >
@@ -45,7 +45,7 @@ MathJax = {
 >     * **CD4 vs CD8:** **Kinetic Signaling Model**에 따라 신호가 지속되면(Continuous) **CD4**, 끊기면(Interrupted) **CD8**이 됨. (전사인자 **ThPOK** vs **Runx3**의 길항 작용).
 >     * **Exit:** **S1P-S1PR1** 상호작용을 통해 성숙한 T세포가 혈관으로 탈출.
 
-> [!example] 핵심 키워드 정리 (Key Terms & Concepts)
+> [!example]- 핵심 키워드 정리 (Key Terms & Concepts)
 >
 > ### 1. DN Stages & Checkpoints (족보)
 > * **Notch1:** T세포 운명 결정의 핵심 (Notch on = T cell, Notch off = B cell).
@@ -382,7 +382,7 @@ MathJax = {
 
 ---
 
-> [!abstract] 강의 요약: T세포의 발달 (T Cell Development)
+> [!abstract]- 강의 요약: T세포의 발달 (T Cell Development)
 >
 > 이번 강의는 **Thymus**에 입학한 전구세포가 엄격한 **Selection**을 거쳐 정예 T세포로 졸업하는 과정을 다룹니다. 크게 **초기 발달(DN) -> 선택(DP) -> 계통 결정(SP) -> 졸업**의 흐름입니다.
 >
@@ -404,7 +404,7 @@ MathJax = {
 >     * **CD4 vs CD8:** **Kinetic Signaling Model**에 따라 신호가 지속되면(Continuous) **CD4**, 끊기면(Interrupted) **CD8**이 됨. (전사인자 **ThPOK** vs **Runx3**의 길항 작용).
 >     * **Exit:** **S1P-S1PR1** 상호작용을 통해 성숙한 T세포가 혈관으로 탈출.
 
-> [!example] 핵심 키워드 정리 (Key Terms & Concepts)
+> [!example]- 핵심 키워드 정리 (Key Terms & Concepts)
 >
 > ### 1. DN Stages & Checkpoints (족보)
 > * **Notch1:** T세포 운명 결정의 핵심 (Notch on = T cell, Notch off = B cell).
@@ -741,7 +741,7 @@ MathJax = {
 
 ---
 
-> [!abstract] 강의 요약: T세포의 발달 (T Cell Development)
+> [!abstract]- 강의 요약: T세포의 발달 (T Cell Development)
 >
 > 이번 강의는 **Thymus**에 입학한 전구세포가 엄격한 **Selection**을 거쳐 정예 T세포로 졸업하는 과정을 다룹니다. 크게 **초기 발달(DN) -> 선택(DP) -> 계통 결정(SP) -> 졸업**의 흐름입니다.
 >
@@ -763,7 +763,7 @@ MathJax = {
 >     * **CD4 vs CD8:** **Kinetic Signaling Model**에 따라 신호가 지속되면(Continuous) **CD4**, 끊기면(Interrupted) **CD8**이 됨. (전사인자 **ThPOK** vs **Runx3**의 길항 작용).
 >     * **Exit:** **S1P-S1PR1** 상호작용을 통해 성숙한 T세포가 혈관으로 탈출.
 
-> [!example] 핵심 키워드 정리 (Key Terms & Concepts)
+> [!example]- 핵심 키워드 정리 (Key Terms & Concepts)
 >
 > ### 1. DN Stages & Checkpoints (족보)
 > * **Notch1:** T세포 운명 결정의 핵심 (Notch on = T cell, Notch off = B cell).
@@ -1100,7 +1100,7 @@ MathJax = {
 
 ---
 
-> [!abstract] 강의 요약: T세포의 발달 (T Cell Development)
+> [!abstract]- 강의 요약: T세포의 발달 (T Cell Development)
 >
 > 이번 강의는 **Thymus**에 입학한 전구세포가 엄격한 **Selection**을 거쳐 정예 T세포로 졸업하는 과정을 다룹니다. 크게 **초기 발달(DN) -> 선택(DP) -> 계통 결정(SP) -> 졸업**의 흐름입니다.
 >
@@ -1122,7 +1122,7 @@ MathJax = {
 >     * **CD4 vs CD8:** **Kinetic Signaling Model**에 따라 신호가 지속되면(Continuous) **CD4**, 끊기면(Interrupted) **CD8**이 됨. (전사인자 **ThPOK** vs **Runx3**의 길항 작용).
 >     * **Exit:** **S1P-S1PR1** 상호작용을 통해 성숙한 T세포가 혈관으로 탈출.
 
-> [!example] 핵심 키워드 정리 (Key Terms & Concepts)
+> [!example]- 핵심 키워드 정리 (Key Terms & Concepts)
 >
 > ### 1. DN Stages & Checkpoints (족보)
 > * **Notch1:** T세포 운명 결정의 핵심 (Notch on = T cell, Notch off = B cell).
@@ -1459,7 +1459,7 @@ MathJax = {
 
 ---
 
-> [!abstract] 강의 요약: T세포의 발달 (T Cell Development)
+> [!abstract]- 강의 요약: T세포의 발달 (T Cell Development)
 >
 > 이번 강의는 **Thymus**에 입학한 전구세포가 엄격한 **Selection**을 거쳐 정예 T세포로 졸업하는 과정을 다룹니다. 크게 **초기 발달(DN) -> 선택(DP) -> 계통 결정(SP) -> 졸업**의 흐름입니다.
 >
@@ -1481,7 +1481,7 @@ MathJax = {
 >     * **CD4 vs CD8:** **Kinetic Signaling Model**에 따라 신호가 지속되면(Continuous) **CD4**, 끊기면(Interrupted) **CD8**이 됨. (전사인자 **ThPOK** vs **Runx3**의 길항 작용).
 >     * **Exit:** **S1P-S1PR1** 상호작용을 통해 성숙한 T세포가 혈관으로 탈출.
 
-> [!example] 핵심 키워드 정리 (Key Terms & Concepts)
+> [!example]- 핵심 키워드 정리 (Key Terms & Concepts)
 >
 > ### 1. DN Stages & Checkpoints (족보)
 > * **Notch1:** T세포 운명 결정의 핵심 (Notch on = T cell, Notch off = B cell).
