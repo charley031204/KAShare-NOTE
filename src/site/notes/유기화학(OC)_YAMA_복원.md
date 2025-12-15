@@ -94,7 +94,17 @@ D) β-helix
 
 E) none of these
 
-25. 잘렸는데, 연습 문제에는 없음. β-D-fructose 관련 문항
+25. Identify the monomer in starch
+
+A) α-D-glucose
+
+B) β-D-glucose
+
+C) α-D-galactose
+
+D) β-D-fructose
+
+E) maltose
 
 26. Which of the following is a major component of the secondary structure of keratin found in hair?
 
@@ -383,7 +393,17 @@ D) β-helix
 
 E) none of these
 
-25. 잘렸는데, 연습 문제에는 없음. β-D-fructose 관련 문항
+25. Identify the monomer in starch
+
+A) α-D-glucose
+
+B) β-D-glucose
+
+C) α-D-galactose
+
+D) β-D-fructose
+
+E) maltose
 
 26. Which of the following is a major component of the secondary structure of keratin found in hair?
 
@@ -672,7 +692,17 @@ D) β-helix
 
 E) none of these
 
-25. 잘렸는데, 연습 문제에는 없음. β-D-fructose 관련 문항
+25. Identify the monomer in starch
+
+A) α-D-glucose
+
+B) β-D-glucose
+
+C) α-D-galactose
+
+D) β-D-fructose
+
+E) maltose
 
 26. Which of the following is a major component of the secondary structure of keratin found in hair?
 
@@ -961,7 +991,17 @@ D) β-helix
 
 E) none of these
 
-25. 잘렸는데, 연습 문제에는 없음. β-D-fructose 관련 문항
+25. Identify the monomer in starch
+
+A) α-D-glucose
+
+B) β-D-glucose
+
+C) α-D-galactose
+
+D) β-D-fructose
+
+E) maltose
 
 26. Which of the following is a major component of the secondary structure of keratin found in hair?
 
@@ -1250,7 +1290,17 @@ D) β-helix
 
 E) none of these
 
-25. 잘렸는데, 연습 문제에는 없음. β-D-fructose 관련 문항
+25. Identify the monomer in starch
+
+A) α-D-glucose
+
+B) β-D-glucose
+
+C) α-D-galactose
+
+D) β-D-fructose
+
+E) maltose
 
 26. Which of the following is a major component of the secondary structure of keratin found in hair?
 
