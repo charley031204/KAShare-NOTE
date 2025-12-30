@@ -26,6 +26,9 @@ A) 5.56 B) 6.35 C) 9.74 D) 10.53 E) none of these
 
 -> 평균 내고 평균 내서 pl 계산
 
+
+---
+
 18. What is the pI of the following amino acid?
 
 [Chemical Structure with pKa values]
@@ -33,6 +36,9 @@ A) 5.56 B) 6.35 C) 9.74 D) 10.53 E) none of these
 A) 1.16 B) 4.81 C) 5.97 D) 9.62 E) none of these
 
 -> 평균 내서 pl 계산
+
+---
+
 
 19. Which of the following results after three steps of Edman degradation of the heptapeptide Lys-His-Gly-Phe-Tyr-Ser-Ala ?
 
@@ -362,7 +368,7 @@ A) enantiomers B) anomers C) epimers D) constitutional isomers E) none of these
 
 45. Which one of the following is the correct stereochemical configuration for D-mannose?
 
-![Pasted image 20251215211228.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211228.png)
+![Pasted image 20251215211228.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211228.png)
 
 A) 2S, 3S, 4R, 5R
 
@@ -428,7 +434,7 @@ _(이 페이지의 문항들은 모두 화학 구조식의 IUPAC 명명법을 �
 
 51. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211254.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211254.png)
+![Pasted image 20251215211254.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211254.png)
 
 A. 7-metyhl - 4 - octanone
 
@@ -436,7 +442,7 @@ A. 7-metyhl - 4 - octanone
  
 52. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211300.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211300.png)
+![Pasted image 20251215211300.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211300.png)
 
 A. 5,5 - dimethyl - 2 heptanone
 
@@ -444,7 +450,7 @@ A. 5,5 - dimethyl - 2 heptanone
 
 53. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211306.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211306.png)
+![Pasted image 20251215211306.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211306.png)
 
 A. 2,5 - dimethylhexanal
 
@@ -452,7 +458,7 @@ A. 2,5 - dimethylhexanal
 
 54. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211312.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211312.png)
+![Pasted image 20251215211312.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211312.png)
 
 A. 7 - hydroxy - 3 - propyl hept - 4 - enal
 
@@ -460,7 +466,7 @@ A. 7 - hydroxy - 3 - propyl hept - 4 - enal
 
 55. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211318.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211318.png)
+![Pasted image 20251215211318.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211318.png)
 
 A. 4,4- dietyhlcycloheptone
 
@@ -485,6 +491,9 @@ A) 5.56 B) 6.35 C) 9.74 D) 10.53 E) none of these
 
 -> 평균 내고 평균 내서 pl 계산
 
+
+---
+
 18. What is the pI of the following amino acid?
 
 [Chemical Structure with pKa values]
@@ -492,6 +501,9 @@ A) 5.56 B) 6.35 C) 9.74 D) 10.53 E) none of these
 A) 1.16 B) 4.81 C) 5.97 D) 9.62 E) none of these
 
 -> 평균 내서 pl 계산
+
+---
+
 
 19. Which of the following results after three steps of Edman degradation of the heptapeptide Lys-His-Gly-Phe-Tyr-Ser-Ala ?
 
@@ -821,7 +833,7 @@ A) enantiomers B) anomers C) epimers D) constitutional isomers E) none of these
 
 45. Which one of the following is the correct stereochemical configuration for D-mannose?
 
-![Pasted image 20251215211228.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211228.png)
+![Pasted image 20251215211228.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211228.png)
 
 A) 2S, 3S, 4R, 5R
 
@@ -887,7 +899,7 @@ _(이 페이지의 문항들은 모두 화학 구조식의 IUPAC 명명법을 �
 
 51. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211254.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211254.png)
+![Pasted image 20251215211254.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211254.png)
 
 A. 7-metyhl - 4 - octanone
 
@@ -895,7 +907,7 @@ A. 7-metyhl - 4 - octanone
  
 52. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211300.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211300.png)
+![Pasted image 20251215211300.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211300.png)
 
 A. 5,5 - dimethyl - 2 heptanone
 
@@ -903,7 +915,7 @@ A. 5,5 - dimethyl - 2 heptanone
 
 53. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211306.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211306.png)
+![Pasted image 20251215211306.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211306.png)
 
 A. 2,5 - dimethylhexanal
 
@@ -911,7 +923,7 @@ A. 2,5 - dimethylhexanal
 
 54. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211312.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211312.png)
+![Pasted image 20251215211312.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211312.png)
 
 A. 7 - hydroxy - 3 - propyl hept - 4 - enal
 
@@ -919,7 +931,7 @@ A. 7 - hydroxy - 3 - propyl hept - 4 - enal
 
 55. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211318.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211318.png)
+![Pasted image 20251215211318.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211318.png)
 
 A. 4,4- dietyhlcycloheptone
 
@@ -944,6 +956,9 @@ A) 5.56 B) 6.35 C) 9.74 D) 10.53 E) none of these
 
 -> 평균 내고 평균 내서 pl 계산
 
+
+---
+
 18. What is the pI of the following amino acid?
 
 [Chemical Structure with pKa values]
@@ -951,6 +966,9 @@ A) 5.56 B) 6.35 C) 9.74 D) 10.53 E) none of these
 A) 1.16 B) 4.81 C) 5.97 D) 9.62 E) none of these
 
 -> 평균 내서 pl 계산
+
+---
+
 
 19. Which of the following results after three steps of Edman degradation of the heptapeptide Lys-His-Gly-Phe-Tyr-Ser-Ala ?
 
@@ -1280,7 +1298,7 @@ A) enantiomers B) anomers C) epimers D) constitutional isomers E) none of these
 
 45. Which one of the following is the correct stereochemical configuration for D-mannose?
 
-![Pasted image 20251215211228.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211228.png)
+![Pasted image 20251215211228.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211228.png)
 
 A) 2S, 3S, 4R, 5R
 
@@ -1346,7 +1364,7 @@ _(이 페이지의 문항들은 모두 화학 구조식의 IUPAC 명명법을 �
 
 51. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211254.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211254.png)
+![Pasted image 20251215211254.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211254.png)
 
 A. 7-metyhl - 4 - octanone
 
@@ -1354,7 +1372,7 @@ A. 7-metyhl - 4 - octanone
  
 52. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211300.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211300.png)
+![Pasted image 20251215211300.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211300.png)
 
 A. 5,5 - dimethyl - 2 heptanone
 
@@ -1362,7 +1380,7 @@ A. 5,5 - dimethyl - 2 heptanone
 
 53. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211306.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211306.png)
+![Pasted image 20251215211306.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211306.png)
 
 A. 2,5 - dimethylhexanal
 
@@ -1370,7 +1388,7 @@ A. 2,5 - dimethylhexanal
 
 54. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211312.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211312.png)
+![Pasted image 20251215211312.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211312.png)
 
 A. 7 - hydroxy - 3 - propyl hept - 4 - enal
 
@@ -1378,7 +1396,7 @@ A. 7 - hydroxy - 3 - propyl hept - 4 - enal
 
 55. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211318.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211318.png)
+![Pasted image 20251215211318.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211318.png)
 
 A. 4,4- dietyhlcycloheptone
 
@@ -1403,6 +1421,9 @@ A) 5.56 B) 6.35 C) 9.74 D) 10.53 E) none of these
 
 -> 평균 내고 평균 내서 pl 계산
 
+
+---
+
 18. What is the pI of the following amino acid?
 
 [Chemical Structure with pKa values]
@@ -1410,6 +1431,9 @@ A) 5.56 B) 6.35 C) 9.74 D) 10.53 E) none of these
 A) 1.16 B) 4.81 C) 5.97 D) 9.62 E) none of these
 
 -> 평균 내서 pl 계산
+
+---
+
 
 19. Which of the following results after three steps of Edman degradation of the heptapeptide Lys-His-Gly-Phe-Tyr-Ser-Ala ?
 
@@ -1739,7 +1763,7 @@ A) enantiomers B) anomers C) epimers D) constitutional isomers E) none of these
 
 45. Which one of the following is the correct stereochemical configuration for D-mannose?
 
-![Pasted image 20251215211228.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211228.png)
+![Pasted image 20251215211228.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211228.png)
 
 A) 2S, 3S, 4R, 5R
 
@@ -1805,7 +1829,7 @@ _(이 페이지의 문항들은 모두 화학 구조식의 IUPAC 명명법을 �
 
 51. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211254.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211254.png)
+![Pasted image 20251215211254.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211254.png)
 
 A. 7-metyhl - 4 - octanone
 
@@ -1813,7 +1837,7 @@ A. 7-metyhl - 4 - octanone
  
 52. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211300.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211300.png)
+![Pasted image 20251215211300.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211300.png)
 
 A. 5,5 - dimethyl - 2 heptanone
 
@@ -1821,7 +1845,7 @@ A. 5,5 - dimethyl - 2 heptanone
 
 53. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211306.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211306.png)
+![Pasted image 20251215211306.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211306.png)
 
 A. 2,5 - dimethylhexanal
 
@@ -1829,7 +1853,7 @@ A. 2,5 - dimethylhexanal
 
 54. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211312.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211312.png)
+![Pasted image 20251215211312.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211312.png)
 
 A. 7 - hydroxy - 3 - propyl hept - 4 - enal
 
@@ -1837,7 +1861,7 @@ A. 7 - hydroxy - 3 - propyl hept - 4 - enal
 
 55. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211318.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211318.png)
+![Pasted image 20251215211318.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211318.png)
 
 A. 4,4- dietyhlcycloheptone
 
@@ -1862,6 +1886,9 @@ A) 5.56 B) 6.35 C) 9.74 D) 10.53 E) none of these
 
 -> 평균 내고 평균 내서 pl 계산
 
+
+---
+
 18. What is the pI of the following amino acid?
 
 [Chemical Structure with pKa values]
@@ -1869,6 +1896,9 @@ A) 5.56 B) 6.35 C) 9.74 D) 10.53 E) none of these
 A) 1.16 B) 4.81 C) 5.97 D) 9.62 E) none of these
 
 -> 평균 내서 pl 계산
+
+---
+
 
 19. Which of the following results after three steps of Edman degradation of the heptapeptide Lys-His-Gly-Phe-Tyr-Ser-Ala ?
 
@@ -2198,7 +2228,7 @@ A) enantiomers B) anomers C) epimers D) constitutional isomers E) none of these
 
 45. Which one of the following is the correct stereochemical configuration for D-mannose?
 
-![Pasted image 20251215211228.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211228.png)
+![Pasted image 20251215211228.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211228.png)
 
 A) 2S, 3S, 4R, 5R
 
@@ -2264,7 +2294,7 @@ _(이 페이지의 문항들은 모두 화학 구조식의 IUPAC 명명법을 �
 
 51. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211254.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211254.png)
+![Pasted image 20251215211254.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211254.png)
 
 A. 7-metyhl - 4 - octanone
 
@@ -2272,7 +2302,7 @@ A. 7-metyhl - 4 - octanone
  
 52. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211300.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211300.png)
+![Pasted image 20251215211300.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211300.png)
 
 A. 5,5 - dimethyl - 2 heptanone
 
@@ -2280,7 +2310,7 @@ A. 5,5 - dimethyl - 2 heptanone
 
 53. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211306.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211306.png)
+![Pasted image 20251215211306.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211306.png)
 
 A. 2,5 - dimethylhexanal
 
@@ -2288,7 +2318,7 @@ A. 2,5 - dimethylhexanal
 
 54. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211312.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211312.png)
+![Pasted image 20251215211312.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211312.png)
 
 A. 7 - hydroxy - 3 - propyl hept - 4 - enal
 
@@ -2296,7 +2326,7 @@ A. 7 - hydroxy - 3 - propyl hept - 4 - enal
 
 55. What is the IUPAC name for the following compound?
 
-![Pasted image 20251215211318.png](/img/user/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211318.png)
+![Pasted image 20251215211318.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-2/%EC%9C%A0%EA%B8%B0%ED%99%94%ED%95%99/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020251215211318.png)
 
 A. 4,4- dietyhlcycloheptone
 
