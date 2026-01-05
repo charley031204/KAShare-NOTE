@@ -163,6 +163,7 @@ MathJax = {
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## Master Group 2: Spearman 계수와 상관분석의 완성 (P. 12-22)
 
 > [!NOTE] 12~13페이지 – Spearman 순위상관계수 ($r_s$)
@@ -249,6 +250,7 @@ MathJax = {
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## Master Group 3: 단순선형회귀분석의 정석 (P. 23-33)
 
 > [!NOTE] 23~24페이지 – Regression (회귀)의 시작과 임상 사례
@@ -501,6 +503,7 @@ MathJax = {
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## Master Group 2: Spearman 계수와 상관분석의 완성 (P. 12-22)
 
 > [!NOTE] 12~13페이지 – Spearman 순위상관계수 ($r_s$)
@@ -587,6 +590,7 @@ MathJax = {
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## Master Group 3: 단순선형회귀분석의 정석 (P. 23-33)
 
 > [!NOTE] 23~24페이지 – Regression (회귀)의 시작과 임상 사례
@@ -839,6 +843,7 @@ MathJax = {
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## Master Group 2: Spearman 계수와 상관분석의 완성 (P. 12-22)
 
 > [!NOTE] 12~13페이지 – Spearman 순위상관계수 ($r_s$)
@@ -925,6 +930,7 @@ MathJax = {
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## Master Group 3: 단순선형회귀분석의 정석 (P. 23-33)
 
 > [!NOTE] 23~24페이지 – Regression (회귀)의 시작과 임상 사례
@@ -1177,6 +1183,7 @@ MathJax = {
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## Master Group 2: Spearman 계수와 상관분석의 완성 (P. 12-22)
 
 > [!NOTE] 12~13페이지 – Spearman 순위상관계수 ($r_s$)
@@ -1263,6 +1270,7 @@ MathJax = {
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## Master Group 3: 단순선형회귀분석의 정석 (P. 23-33)
 
 > [!NOTE] 23~24페이지 – Regression (회귀)의 시작과 임상 사례
@@ -1515,6 +1523,7 @@ MathJax = {
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## Master Group 2: Spearman 계수와 상관분석의 완성 (P. 12-22)
 
 > [!NOTE] 12~13페이지 – Spearman 순위상관계수 ($r_s$)
@@ -1601,6 +1610,7 @@ MathJax = {
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## Master Group 3: 단순선형회귀분석의 정석 (P. 23-33)
 
 > [!NOTE] 23~24페이지 – Regression (회귀)의 시작과 임상 사례
