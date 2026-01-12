@@ -21,6 +21,8 @@ MathJax = {
 >본 자료의 저작권은 **KAISTUDY**에 있습니다.
 ---
 
+<div style="page-break-after: always;"></div>
+
 > [!question]
 > ![Pasted image 20260112165012.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-%EB%8F%99%EA%B8%B0/%EC%9D%98%ED%95%99%ED%86%B5%EA%B3%84%ED%95%99/%EC%95%BC%EB%A7%88/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020260112165012.png)
 > **1. 위 연구가 생존분석 연구인 이유를 서술하시오. (부분점수 없음)**
@@ -38,12 +40,8 @@ MathJax = {
 >
 > > [!quote] **정답포인트**
 > > - 핵심 3단어: `Cumulative incidences`, `Cox proportional hazards models`, `Hazard Ratio`
-> > - 이 단어들이 Abstract에 포함된 것 자체가 생존분석을 수행했다는 결정적 근거임.
-
 
 <div style="page-break-after: always;"></div>
-
----
 
 > [!question]
 > **2. HR 1.351 (유의확률 95% (1.206~1.501))이 의미하는 바를 서술하시오. [25기말]**
@@ -58,11 +56,7 @@ MathJax = {
 > > [!quote] **정답포인트**
 > > - `HR 1.351`: 위험 35.1% 증가
 > > - `95% CI (1.206-1.501)`: 1을 포함하지 않아 통계적 유의성 확보
-
 <div style="page-break-after: always;"></div>
-
-
----
 
 > [!question]
 > **3. Q. 연구에서 집단을 나눈 방법의 문제점 2가지와 각각의 해결방안을 서술하시오. [25기말]**
@@ -87,12 +81,9 @@ MathJax = {
 > > [!quote] **정답포인트**
 > > - 문제: `정보 손실`, `임의적 편향`
 > > - 해결: `연속형 변수 그대로 사용`, `Spline curve 활용`
-
 <div style="page-break-after: always;"></div>
 
-
 ---
-
 > [!question]
 > **4. 두 개의 생존 곡선을 통계적으로 비교하고자 할 때 사용할 수 있는 방법은? [25기말]**
 > ① Mann-Whitney
@@ -127,6 +118,8 @@ MathJax = {
 >본 자료의 저작권은 **KAISTUDY**에 있습니다.
 ---
 
+<div style="page-break-after: always;"></div>
+
 > [!question]
 > ![Pasted image 20260112165012.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-%EB%8F%99%EA%B8%B0/%EC%9D%98%ED%95%99%ED%86%B5%EA%B3%84%ED%95%99/%EC%95%BC%EB%A7%88/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020260112165012.png)
 > **1. 위 연구가 생존분석 연구인 이유를 서술하시오. (부분점수 없음)**
@@ -144,12 +137,8 @@ MathJax = {
 >
 > > [!quote] **정답포인트**
 > > - 핵심 3단어: `Cumulative incidences`, `Cox proportional hazards models`, `Hazard Ratio`
-> > - 이 단어들이 Abstract에 포함된 것 자체가 생존분석을 수행했다는 결정적 근거임.
-
 
 <div style="page-break-after: always;"></div>
-
----
 
 > [!question]
 > **2. HR 1.351 (유의확률 95% (1.206~1.501))이 의미하는 바를 서술하시오. [25기말]**
@@ -164,11 +153,7 @@ MathJax = {
 > > [!quote] **정답포인트**
 > > - `HR 1.351`: 위험 35.1% 증가
 > > - `95% CI (1.206-1.501)`: 1을 포함하지 않아 통계적 유의성 확보
-
 <div style="page-break-after: always;"></div>
-
-
----
 
 > [!question]
 > **3. Q. 연구에서 집단을 나눈 방법의 문제점 2가지와 각각의 해결방안을 서술하시오. [25기말]**
@@ -193,12 +178,9 @@ MathJax = {
 > > [!quote] **정답포인트**
 > > - 문제: `정보 손실`, `임의적 편향`
 > > - 해결: `연속형 변수 그대로 사용`, `Spline curve 활용`
-
 <div style="page-break-after: always;"></div>
 
-
 ---
-
 > [!question]
 > **4. 두 개의 생존 곡선을 통계적으로 비교하고자 할 때 사용할 수 있는 방법은? [25기말]**
 > ① Mann-Whitney
@@ -233,6 +215,8 @@ MathJax = {
 >본 자료의 저작권은 **KAISTUDY**에 있습니다.
 ---
 
+<div style="page-break-after: always;"></div>
+
 > [!question]
 > ![Pasted image 20260112165012.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-%EB%8F%99%EA%B8%B0/%EC%9D%98%ED%95%99%ED%86%B5%EA%B3%84%ED%95%99/%EC%95%BC%EB%A7%88/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020260112165012.png)
 > **1. 위 연구가 생존분석 연구인 이유를 서술하시오. (부분점수 없음)**
@@ -250,12 +234,8 @@ MathJax = {
 >
 > > [!quote] **정답포인트**
 > > - 핵심 3단어: `Cumulative incidences`, `Cox proportional hazards models`, `Hazard Ratio`
-> > - 이 단어들이 Abstract에 포함된 것 자체가 생존분석을 수행했다는 결정적 근거임.
-
 
 <div style="page-break-after: always;"></div>
-
----
 
 > [!question]
 > **2. HR 1.351 (유의확률 95% (1.206~1.501))이 의미하는 바를 서술하시오. [25기말]**
@@ -270,11 +250,7 @@ MathJax = {
 > > [!quote] **정답포인트**
 > > - `HR 1.351`: 위험 35.1% 증가
 > > - `95% CI (1.206-1.501)`: 1을 포함하지 않아 통계적 유의성 확보
-
 <div style="page-break-after: always;"></div>
-
-
----
 
 > [!question]
 > **3. Q. 연구에서 집단을 나눈 방법의 문제점 2가지와 각각의 해결방안을 서술하시오. [25기말]**
@@ -299,12 +275,9 @@ MathJax = {
 > > [!quote] **정답포인트**
 > > - 문제: `정보 손실`, `임의적 편향`
 > > - 해결: `연속형 변수 그대로 사용`, `Spline curve 활용`
-
 <div style="page-break-after: always;"></div>
 
-
 ---
-
 > [!question]
 > **4. 두 개의 생존 곡선을 통계적으로 비교하고자 할 때 사용할 수 있는 방법은? [25기말]**
 > ① Mann-Whitney
@@ -339,6 +312,8 @@ MathJax = {
 >본 자료의 저작권은 **KAISTUDY**에 있습니다.
 ---
 
+<div style="page-break-after: always;"></div>
+
 > [!question]
 > ![Pasted image 20260112165012.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-%EB%8F%99%EA%B8%B0/%EC%9D%98%ED%95%99%ED%86%B5%EA%B3%84%ED%95%99/%EC%95%BC%EB%A7%88/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020260112165012.png)
 > **1. 위 연구가 생존분석 연구인 이유를 서술하시오. (부분점수 없음)**
@@ -356,12 +331,8 @@ MathJax = {
 >
 > > [!quote] **정답포인트**
 > > - 핵심 3단어: `Cumulative incidences`, `Cox proportional hazards models`, `Hazard Ratio`
-> > - 이 단어들이 Abstract에 포함된 것 자체가 생존분석을 수행했다는 결정적 근거임.
-
 
 <div style="page-break-after: always;"></div>
-
----
 
 > [!question]
 > **2. HR 1.351 (유의확률 95% (1.206~1.501))이 의미하는 바를 서술하시오. [25기말]**
@@ -376,11 +347,7 @@ MathJax = {
 > > [!quote] **정답포인트**
 > > - `HR 1.351`: 위험 35.1% 증가
 > > - `95% CI (1.206-1.501)`: 1을 포함하지 않아 통계적 유의성 확보
-
 <div style="page-break-after: always;"></div>
-
-
----
 
 > [!question]
 > **3. Q. 연구에서 집단을 나눈 방법의 문제점 2가지와 각각의 해결방안을 서술하시오. [25기말]**
@@ -405,12 +372,9 @@ MathJax = {
 > > [!quote] **정답포인트**
 > > - 문제: `정보 손실`, `임의적 편향`
 > > - 해결: `연속형 변수 그대로 사용`, `Spline curve 활용`
-
 <div style="page-break-after: always;"></div>
 
-
 ---
-
 > [!question]
 > **4. 두 개의 생존 곡선을 통계적으로 비교하고자 할 때 사용할 수 있는 방법은? [25기말]**
 > ① Mann-Whitney
@@ -445,6 +409,8 @@ MathJax = {
 >본 자료의 저작권은 **KAISTUDY**에 있습니다.
 ---
 
+<div style="page-break-after: always;"></div>
+
 > [!question]
 > ![Pasted image 20260112165012.png](/img/user/%ED%95%99%EC%97%85/%EC%98%88%202-%EB%8F%99%EA%B8%B0/%EC%9D%98%ED%95%99%ED%86%B5%EA%B3%84%ED%95%99/%EC%95%BC%EB%A7%88/%EB%8F%99%EB%B4%89%EC%9D%B4%EB%AF%B8%EC%A7%80/Pasted%20image%2020260112165012.png)
 > **1. 위 연구가 생존분석 연구인 이유를 서술하시오. (부분점수 없음)**
@@ -462,12 +428,8 @@ MathJax = {
 >
 > > [!quote] **정답포인트**
 > > - 핵심 3단어: `Cumulative incidences`, `Cox proportional hazards models`, `Hazard Ratio`
-> > - 이 단어들이 Abstract에 포함된 것 자체가 생존분석을 수행했다는 결정적 근거임.
-
 
 <div style="page-break-after: always;"></div>
-
----
 
 > [!question]
 > **2. HR 1.351 (유의확률 95% (1.206~1.501))이 의미하는 바를 서술하시오. [25기말]**
@@ -482,11 +444,7 @@ MathJax = {
 > > [!quote] **정답포인트**
 > > - `HR 1.351`: 위험 35.1% 증가
 > > - `95% CI (1.206-1.501)`: 1을 포함하지 않아 통계적 유의성 확보
-
 <div style="page-break-after: always;"></div>
-
-
----
 
 > [!question]
 > **3. Q. 연구에서 집단을 나눈 방법의 문제점 2가지와 각각의 해결방안을 서술하시오. [25기말]**
@@ -511,12 +469,9 @@ MathJax = {
 > > [!quote] **정답포인트**
 > > - 문제: `정보 손실`, `임의적 편향`
 > > - 해결: `연속형 변수 그대로 사용`, `Spline curve 활용`
-
 <div style="page-break-after: always;"></div>
 
-
 ---
-
 > [!question]
 > **4. 두 개의 생존 곡선을 통계적으로 비교하고자 할 때 사용할 수 있는 방법은? [25기말]**
 > ① Mann-Whitney
